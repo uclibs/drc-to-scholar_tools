@@ -1,0 +1,90 @@
+title:
+  element: "title"
+  qualifiers: 
+    - "none"
+alternate_title:
+  element: "title"
+  qualifiers:
+    - "alternative"
+alternate_title_2:
+  element: "relation"
+  qualifiers:
+    - "ispartofseries"
+creator:
+  element: "contributor"
+  qualifiers: 
+    - "author"
+    - "editor"
+    - "none"
+subject:
+  element: "subject"
+  qualifiers: 
+    - "none"
+    - "lcsh"
+    - "mesh"
+time_period:
+  element: "coverage"
+  qualifiers:
+    - "temporal"
+geo_subject:
+  element: "coverage"
+  qualifiers:
+    - "spatial"
+date_created:
+  element: "date"
+  qualifiers:
+    - "created"
+language:
+  element: "language"
+  qualifiers:
+    - "iso"
+alt_description:
+  element: "description"
+  qualifiers: 
+    -  "abstract"
+    -  "none"
+rights:
+  element: "rights"
+  qualifiers:
+    - "uri"
+publisher:
+  element: "publisher"
+  qualifiers:
+    - "digital"
+    - "none"
+external_link:
+  element: "source"
+  qualifiers:
+    - "uri"
+note:
+  element: "notes"
+  qualifiers:
+    - "none"
+note_handle:
+  element: "identifier"
+  qualifiers:
+    - "uri"
+note_oclc:
+  element: "identifier"
+  qualifiers:
+    - "oclc"
+note_isbn:
+  element: "identifier"
+  qualifiers:
+    - "isbn"
+note_issn:
+  element: "identifier"
+  qualifiers:
+    - "issn"
+note_identifier_other:
+  element: "identifier"
+  qualifiers:
+    - "other"
+note_provenance:
+  element: "description"
+  qualifiers:
+    - "provenance"
+note_type:
+  element: "type"
+  qualifiers:
+    - "none"
